@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    height:100px ;
+    background-color: aqua;
+
+}
+ .item {
+    border:2px solid burlywood;
+    background-color: coral;
+    width: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    height: 20px;
+    
+ }
+
+ 
